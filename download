@@ -1,0 +1,8 @@
+src
+test
+netlify
+netlify.toml
+build.py
+README.md
+DEPLOY.md
+*.zip

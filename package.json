@@ -1,0 +1,6 @@
+{
+  "name": "kev-gimhae-site",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": { "build": "python3 build.py", "test": "node test/aero.test.js" }
+}
